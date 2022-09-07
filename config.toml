@@ -1,0 +1,5 @@
+UID = 95228778 # up主王道计算机教育的UID
+
+UPDATEMODE = false #更新模式的开关，false为初次运行，爬取自2022年7月12日到运行日的所有每日一题，true为更新模式，只获取前一天的每日一题
+
+RESULTFILEPATH = "result.md" # 每日一题的结果文档路径，建议使用相对路径
